@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(41, 244, 176, 0.206);
+    .ibm-plex sans-thin {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-extralight {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-light {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-regular {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-medium {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-semibold {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-bold {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .ibm-plex sans-thin-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 100;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-extralight-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-light-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-regular-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-medium-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-semibold-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+      }
+      
+      .ibm-plex sans-bold-italic {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+      }
+      .container{
+        max-width:1000px;
+        margin:0 auto;
+        padding:20px;
+      }
+      .profile-image{
+        width:140px;
+        height:170px;
+        border:3px solid whitesmoke;
+        border-radius: 50%;
+        float: left;
+      }
+
+      .header-bio{
+        float:left;
+        padding:30px;
+      }
+      h1,h2,h3,h4,h5{
+        color:rgb(13, 31, 31)
+      }
+
+      .header-contact{
+        float:right;
+        padding:30px;
+      }
+
+      .header-contact a{
+       text-decoration:none;
+       color:#104432;
+       font-weight:bold;
+      }
+
+      .header-contact a:hover{
+        text-decoration: underline;
+        color:red;
+      }
+
+      .div-clear{
+        clear:both;
+        padding:3px;
+
+      }
+
+      hr{
+        border:solid rgb(35, 19, 117) 2px;
+
+      }
+
+}
+
+
+/* personal section */
+
+#personal-section{
+
+}
+
+.contant{
+
+
+}
+
+.left-div{
+         width: 30%;
+         float: left;
+         padding:2px;
+}
+
+.right-div{
+        width:70%;
+        float: right;
+        padding:0px;
+}
+
+
+hr{
+    border:solid rgb(35, 19, 117) 2px;
+
+  }
+
+  .botom{
+
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+  }
+
+  .botom a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 18px;
+    
+  }
+
+  .botom p{
+    color: aliceblue; 
+    text-decoration: none;
+    margin-top: 18px;
+   
+    
+  }
+  
